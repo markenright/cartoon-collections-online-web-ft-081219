@@ -39,4 +39,4 @@ def find_the_cheese(array)
 end
 
 snacks = ["crackers", "gouda", "thyme"]
-puts find_the_cheese(snacks)
+#puts find_the_cheese(snacks)
